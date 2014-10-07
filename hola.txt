@@ -1,4 +1,6 @@
 #include <studio.h>
 int main() {
-printf("hola")
+	printf("hola, mundo\n");
+
+	exit(0);
 }
