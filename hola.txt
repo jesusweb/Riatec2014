@@ -1,5 +1,7 @@
 #include <studio.h>
 /* Main function */
 int main() {
-	printf("hola")
+	printf("hola, mundo\n");
+
+	exit(0);
 }
